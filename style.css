@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+
+body{
+  font-family: 'Henny Penny', cursive;
+  background-image: url(/1.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center center;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: inline-block
+}
+
+
+.text{
+margin-top: 150px;
+text-align: center;
+font-size: 53px;
+color:azure
+}
+
+a{
+  text-align: center;
+  font-size: 53px;
+  color:red;
+
+}
+
+
